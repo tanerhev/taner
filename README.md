@@ -1,4 +1,4 @@
-# taner
+# taner22
 This is our first collaborative programing project
 
 The group members are follows:
